@@ -1,0 +1,27 @@
+@import url('global.css');
+
+form{
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+form label{
+
+    margin: 10px 0px;
+
+    font-size: 20px;
+
+}
+
+form a{
+
+    margin: 20px 0px;
+
+    text-align: center;
+
+    font-size: 15px;
+
+}
