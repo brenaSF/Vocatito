@@ -1,5 +1,11 @@
 @import url('global.css');
 
+body{
+
+    background-color:#b57ede;
+
+}
+
 #jogo {
     margin: auto;
     display: flex;
@@ -13,6 +19,8 @@
     border: 4px solid black;
     padding: 25px;
     border-radius: 10px;
+
+    background-color: white;
 }
 
 
@@ -38,6 +46,17 @@
 
     width: 400px;
     
+}
+
+#temporizador {
+
+    margin: 10px 0px;
+
+    background-color: #b57ede;
+
+    padding: 10px;
+
+    border-radius: 30px;
 }
 
 #sinalizador{
